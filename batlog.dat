@@ -1,0 +1,56 @@
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 75
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 7911
+    | |           "CurrentCapacity" = 1917
+    | |           "LegacyBatteryInfo" = {"Amperage"=2123,"Flags"=7,"Capacity"=7911,"Current"=1917,"Voltage"=11548,"Cycle Count"=75}
+    | |           "DesignCapacity" = 8460
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 75
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 7911
+    | |           "CurrentCapacity" = 2095
+    | |           "LegacyBatteryInfo" = {"Amperage"=2100,"Flags"=7,"Capacity"=7911,"Current"=2095,"Voltage"=11568,"Cycle Count"=75}
+    | |           "DesignCapacity" = 8460
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 75
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 7911
+    | |           "CurrentCapacity" = 2130
+    | |           "LegacyBatteryInfo" = {"Amperage"=2143,"Flags"=7,"Capacity"=7911,"Current"=2130,"Voltage"=11569,"Cycle Count"=75}
+    | |           "DesignCapacity" = 8460
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 75
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 7911
+    | |           "CurrentCapacity" = 2164
+    | |           "LegacyBatteryInfo" = {"Amperage"=1904,"Flags"=7,"Capacity"=7911,"Current"=2164,"Voltage"=11557,"Cycle Count"=75}
+    | |           "DesignCapacity" = 8460
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 75
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 7911
+    | |           "CurrentCapacity" = 2199
+    | |           "LegacyBatteryInfo" = {"Amperage"=2136,"Flags"=7,"Capacity"=7911,"Current"=2199,"Voltage"=11568,"Cycle Count"=75}
+    | |           "DesignCapacity" = 8460
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 75
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 7911
+    | |           "CurrentCapacity" = 2235
+    | |           "LegacyBatteryInfo" = {"Amperage"=2185,"Flags"=7,"Capacity"=7911,"Current"=2235,"Voltage"=11587,"Cycle Count"=75}
+    | |           "DesignCapacity" = 8460
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 75
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 7911
+    | |           "CurrentCapacity" = 2265
+    | |           "LegacyBatteryInfo" = {"Amperage"=1595,"Flags"=7,"Capacity"=7911,"Current"=2265,"Voltage"=11553,"Cycle Count"=75}
+    | |           "DesignCapacity" = 8460
+    | |           "DesignCycleCount70" = 65535
+    | |           "CycleCount" = 75
+    | |           "DesignCycleCount9C" = 1000
+    | |           "MaxCapacity" = 7911
+    | |           "CurrentCapacity" = 2301
+    | |           "LegacyBatteryInfo" = {"Amperage"=2153,"Flags"=7,"Capacity"=7911,"Current"=2301,"Voltage"=11581,"Cycle Count"=75}
+    | |           "DesignCapacity" = 8460
